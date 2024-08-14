@@ -1,6 +1,5 @@
 # Web_Band_html
 
-* Mô tả: Một giao diện web giới thiệu band nhạc của ai đó nhỏ nhỏ - xinh xinh
+* Description: A small and cute web interface to introduce someone's band in my html/css learning process.
 
-
-* Công nghệ: HTML - CSS - Javascript
+* Technology: HTML - CSS - Javascript
